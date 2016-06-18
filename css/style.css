@@ -2,5 +2,13 @@ body {
   background-color: white;
 }
 div.container {
-  /* padding: 50px 30px 90px 80px;*/
+    border-width: 5px;
+    float: right;
+    padding: 10px 670px 0px 0px;
+    margin-top: 300px;
+}
+div.backgroundImg{
+  position: static;
+   float: right;
+  margin: -350px 150px 100px 80px;
 }
